@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @haneenaajmi
-- 👀 I’m interested in ...
+- 👀 I’m interested in mobile application development
 - 🌱 I’m currently learning android-flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me @ ajuhaneena456@gmail.com
