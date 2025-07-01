@@ -8,7 +8,7 @@
 
 - 📫 Reach me through **haneenaajmi182@gmail.com**
   
--  📫 Currently working as a web developer**
+-  📫 Currently working as a web developer @clt-academy.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
