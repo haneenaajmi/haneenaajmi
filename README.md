@@ -7,6 +7,8 @@
 - 💬 Ask me about **flutter, Dart**
 
 - 📫 Reach me through **haneenaajmi182@gmail.com**
+  
+-  📫 Currently working as a web developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
