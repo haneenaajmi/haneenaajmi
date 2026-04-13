@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from India</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://ajuhaneena456.wixsite.com/flutter-developer/](https://ajuhaneena456.wixsite.com/flutter-developer/)
+- 👨‍💻 All of my projects are available at [https://haneenaajmi.com/](https://haneenaajmi.com/)
 
 - 💬 Ask me about **flutter, Dart**
 
